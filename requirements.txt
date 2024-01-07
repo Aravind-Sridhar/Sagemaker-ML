@@ -4,3 +4,4 @@ pandas
 numpy
 ipykernel
 boto3
+python-dotenv
